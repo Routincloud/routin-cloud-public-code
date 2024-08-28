@@ -1,2 +1,15 @@
 **Integración de 3 Cuentas WhatsApp en el Plan Business**  
    - Se ha añadido la capacidad de integrar hasta 3 cuentas de WhatsApp API en el Plan Business, permitiendo una gestión más eficiente y versátil de múltiples cuentas dentro de una misma plataforma.
+
+**Integración de Gemini AI con Soporte para Múltiples Números y Memoria**  
+   - Se ha integrado Gemini AI en la plataforma con soporte para manejar varios números de WhatsApp y la capacidad de memoria para retener conversaciones, mejorando la personalización y el contexto en las interacciones del cliente.
+
+**Integración de API para Campañas de WhatsApp con API Cloud de WhatsApp Business de Meta**  
+   - Se ha añadido soporte para campañas de marketing a través de la API de WhatsApp Business de Meta, facilitando la creación y gestión de campañas directamente desde la plataforma Routin Cloud.
+
+**Mejoras en la Progressive Web App (PWA) para Tablets**  
+   - Se han realizado optimizaciones en la PWA de Routin Cloud para mejorar la experiencia de usuario en dispositivos tablet, incluyendo un diseño más responsivo y una interfaz optimizada para pantallas más grandes.
+
+**Implementación de Monitorización de Números de WhatsApp de los Agentes**  
+   - Se ha implementado un nuevo sistema de monitorización para los números de WhatsApp de los agentes, permitiendo a los administradores ver el estado y rendimiento de cada número de agente en tiempo real.
+
